@@ -1,1 +1,13 @@
 @import "reset.css";
+
+.cha_box { /*전체를 감싸는 전체 초록박스 css*/
+    width: 342px;
+    height: 163px;
+    background: #93b658;
+    border-radius: 16px;
+    margin: 0px 24px;
+    padding: 16px;
+    box-sizing: border-box;
+    position: relative;
+  }
+  
